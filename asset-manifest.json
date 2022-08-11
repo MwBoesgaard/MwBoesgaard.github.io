@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/www.boesgaard.dev/static/css/main.073c9b0a.css",
-    "main.js": "/www.boesgaard.dev/static/js/main.b7443643.js",
-    "static/js/787.9b443e25.chunk.js": "/www.boesgaard.dev/static/js/787.9b443e25.chunk.js",
-    "static/media/logo.svg": "/www.boesgaard.dev/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/www.boesgaard.dev/index.html",
-    "main.073c9b0a.css.map": "/www.boesgaard.dev/static/css/main.073c9b0a.css.map",
-    "main.b7443643.js.map": "/www.boesgaard.dev/static/js/main.b7443643.js.map",
-    "787.9b443e25.chunk.js.map": "/www.boesgaard.dev/static/js/787.9b443e25.chunk.js.map"
+    "main.css": "/mwboesgaard.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/mwboesgaard.github.io/static/js/main.c5b3169d.js",
+    "static/js/787.9b443e25.chunk.js": "/mwboesgaard.github.io/static/js/787.9b443e25.chunk.js",
+    "static/media/logo.svg": "/mwboesgaard.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mwboesgaard.github.io/index.html",
+    "main.073c9b0a.css.map": "/mwboesgaard.github.io/static/css/main.073c9b0a.css.map",
+    "main.c5b3169d.js.map": "/mwboesgaard.github.io/static/js/main.c5b3169d.js.map",
+    "787.9b443e25.chunk.js.map": "/mwboesgaard.github.io/static/js/787.9b443e25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b7443643.js"
+    "static/js/main.c5b3169d.js"
   ]
 }
